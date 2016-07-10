@@ -1,4 +1,5 @@
 #!/bin/bash
 npm install
+npm install mqtt
 cp -R node_modules/ /tmp/node_modules/
 
